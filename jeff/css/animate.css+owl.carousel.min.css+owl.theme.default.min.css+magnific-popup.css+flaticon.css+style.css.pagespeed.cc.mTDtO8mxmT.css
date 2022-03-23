@@ -3188,6 +3188,7 @@ pre {
   flex-wrap: wrap;
  }
 
+
 .no-gutters {
   margin-right: 0;
   margin-left: 0; }
@@ -5586,7 +5587,7 @@ textarea.form-control {
   padding: 5em 0;
 }
 
-    /*work with*/
+  /*work with*/
   .work_general{
     display: flex;
     justify-content: center;
