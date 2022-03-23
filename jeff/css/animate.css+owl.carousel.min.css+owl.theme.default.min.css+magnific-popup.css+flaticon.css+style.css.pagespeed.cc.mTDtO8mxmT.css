@@ -5586,13 +5586,14 @@ textarea.form-control {
   padding: 5em 0;
 }
 
-  /*work with*/
+    /*work with*/
   .work_general{
     display: flex;
     justify-content: center;
     padding: 0;
     margin: 0;
   }
+
 h2{
   font-weight: bold;
 }
@@ -5607,8 +5608,14 @@ h2{
   }
   .picture_xxxx{
     width: 60%;
-    margin-top: 60px;
+    margin-top: 5px;
   }
+
+  .picture_xxxxx{
+    width: 80%;
+    margin-top: 5px;
+  }
+
   .picture_x{
     width: 350%;
   }
@@ -5619,7 +5626,6 @@ h2{
 
   .picture_xxx{
     width: 160px;
-    margin-top: 45px;
   }
 
   .logo{
